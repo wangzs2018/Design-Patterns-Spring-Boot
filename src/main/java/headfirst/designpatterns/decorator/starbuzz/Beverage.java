@@ -1,5 +1,8 @@
 package headfirst.designpatterns.decorator.starbuzz;
 
+/**
+ * 饮料
+ */
 public abstract class Beverage {
 	String description = "Unknown Beverage";
   

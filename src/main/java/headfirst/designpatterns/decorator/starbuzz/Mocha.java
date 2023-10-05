@@ -1,5 +1,8 @@
 package headfirst.designpatterns.decorator.starbuzz;
 
+/**
+ * 摩卡
+ */
 public class Mocha extends CondimentDecorator {
 	public Mocha(Beverage beverage) {
 		this.beverage = beverage;
