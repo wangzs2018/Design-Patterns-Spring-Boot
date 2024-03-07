@@ -14,16 +14,16 @@
 
 # 6.命令模式 command
 
-# 7.适配器和外观模式
+# 7.适配器和外观模式  adapter facade
 
-# 8.模板方法模式
+# 8.模板方法模式 templatemethod
 
-# 9.迭代器和组合模式
+# 9.迭代器和组合模式 iterator composite
 
-# 10.状态模式
+# 10.状态模式 state
 
-# 11.代理模式
+# 11.代理模式 proxy
 
-# 12.复合模式
+# 12.复合模式 composite
 
 # 13.更好与设计模式相处
