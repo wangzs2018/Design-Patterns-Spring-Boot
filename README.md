@@ -11,10 +11,13 @@
 2024年3月6日   完成
 
 # 5.单件模式 singleton
+2024年3月8日   完成
 
 # 6.命令模式 command
+2024年3月8日   完成
 
 # 7.适配器和外观模式  adapter facade
+2024年3月8日   完成
 
 # 8.模板方法模式 templatemethod
 
